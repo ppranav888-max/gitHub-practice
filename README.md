@@ -11,3 +11,5 @@ I am learning Git and GitHub on my Mac.
 I am learning how to create branches,
 commit changes, and push code to GitHub.
 Let's try it.
+
+Hi Today is Wednesday Nov 25 12:24 PM. about to commit this new line
